@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import { useState } from 'react'
 import arrow from '../assets/icon-arrow.svg'
 import left from '../assets/icon-angle-left.svg'
 import right from '../assets/icon-angle-right.svg'
